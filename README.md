@@ -1,24 +1,16 @@
-# README
+## Rails boilerplate
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This will include any boilerplate code that could be useful to any rails application
+or to scaffold a new one.
 
-Things you may want to cover:
+Already included:
 
-* Ruby version
+- Authentication
+- Basic user model
 
-* System dependencies
 
-* Configuration
+### Database configuration
 
-* Database creation
+This project is loaded with support to PostgreSQL
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Head to `/config/database.yml` to set up database properly
